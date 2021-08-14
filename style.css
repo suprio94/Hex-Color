@@ -4,11 +4,13 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-.btn{
-    display: inline-block;
-    background-color: lightgrey;
-    color : blue;
+#timer{
+    position: fixed;
+    top:60px;
+    right:60px;
+    font-size: large;
 }
+
 
 .container{
     height: 100vh;
